@@ -1,1 +1,2 @@
 "# Tere, GitHub!" 
+"Muudetud Veebis"
